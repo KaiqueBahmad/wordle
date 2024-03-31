@@ -1,0 +1,28 @@
+.null, .correto, .trocado, .errado {
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1.5px solid rgb(66, 66, 66);
+    user-select: none;
+}
+.null {
+    background-color: floralwhite;
+}
+.correto {
+    background-color: green;
+}
+.trocado {
+    background-color: yellow;
+}
+.errado {
+    background-color: red;
+}
+.esperandoLetra {
+    /* display: table-cell; */  
+    background-color: rgba(255, 255, 255, 0.473);
+    border-bottom: 1px solid black;
+}
+

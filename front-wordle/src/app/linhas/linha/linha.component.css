@@ -1,0 +1,16 @@
+#linha {
+    width: 100%;
+    display: flex;
+}
+app-quadrado {
+    font-family: Helvetica;
+    font-size: 30px;
+    background-color: rgb(83, 167, 132);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    height: 60px;
+    width: 60px;
+    cursor: pointer;
+}

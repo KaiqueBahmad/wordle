@@ -1,0 +1,10 @@
+div {
+    /* background-color: aliceblue; */
+    background-color: rgb(83, 167, 132);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 80vh;
+    padding: 30px 0;
+    border-radius: 30px;
+}

@@ -1,0 +1,9 @@
+div {
+    background-color: rgb(83, 167, 132);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    /* width: 60vh; */
+    padding: 20px 40px;
+    border-radius: 30px;
+}
